@@ -10,7 +10,7 @@ EcoAware AI intelligently schedules computations to minimize environmental impac
 
 ## Quickstart 🚀
 ```bash
-git clone https://github.com/yourusername/ecoaware.git
+git clone https://github.com/abhinandanbhatt1997/ecoaware.git
 cd ecoaware
 pip install -r requirements.txt
 python3 main.py
